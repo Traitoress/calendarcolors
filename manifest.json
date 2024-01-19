@@ -1,0 +1,10 @@
+{
+"manifest_version": 3,
+"name": "Calendar Colors",
+"description": "Customize colors in Google Calendar",
+"version": "1.0",
+"action": {
+    "default_popup": "colors.html",
+    "default_icon": "colors-icon.webp"
+    }
+}
